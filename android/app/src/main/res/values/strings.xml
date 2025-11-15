@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="explanation_access_to_appusage_is_not_enabled">Please enable access to app usage statistics in Settings > Security > Apps with usage access</string>
+    
+    <string-array name="action_list">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
